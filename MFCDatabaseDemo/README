@@ -1,0 +1,2 @@
+Using MFC database classes based on ODBC designed to provide access to any database for which an ODBC driver is available.
+When an implemented read button is pressed, the database related operation(retrieve, update, delete) is perfomed on the  database record
